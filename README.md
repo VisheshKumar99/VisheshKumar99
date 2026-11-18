@@ -12,7 +12,7 @@
 
 ## 🧠 About Me
 
-I'm a **Backend Engineer with 4+ years of experience** designing and building distributed, event-driven systems.
+I'm a **Backend Engineer with 5+ years of experience** designing and building distributed, event-driven systems.
 
 My core engineering experience includes:
 
